@@ -21,8 +21,8 @@ This repository contains a boilerplate for a Telegram bot designed to manage Sol
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/nikhil5642/Solana-Telegram-Bot-boilerplate.git
-   cd Solana-Telegram-Bot-boilerplate
+   git clone https://github.com/nikhil5642/solana-telegram-bot-boilerplate.git
+   cd solana-telegram-bot-boilerplate
    ```
 
 2. **Install dependencies**:
